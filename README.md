@@ -3,7 +3,7 @@
 ### 📖 About Me
 * Software Engineer / Software Engineer in Test
 * Based in London, UK
-* Currently programming in C#
+* Currently programming in C#, using Azure and .net 6. Really enjoying it 😄
 * Have also used Python, Java, C++ and Common Lisp
 
 ### 🌱 I’m currently learning
@@ -12,6 +12,10 @@
 
 ### 🎯 Goals
 * Gain understanding of mathematical finance
+
+### 👯 Social
+
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/NickWeinhold)
 
 
 <!--
