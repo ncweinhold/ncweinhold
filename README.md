@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### 📖 About Me
-* Software Engineer / Software Engineer in Test
+* Senior Software Engineer
 * Based in London, UK
-* Currently programming in C#, using Azure and .net 6. Really enjoying it 😄
+* Currently programming in C# and Typescript, using AWS. Really enjoying it 😄
 * Have also used Python, Java, C++ and Common Lisp
 
 ### 🌱 I’m currently learning
@@ -12,6 +12,8 @@
 
 ### 🎯 Goals
 * Gain understanding of mathematical finance
+* Brush up on data structures
+* Learn concepts of AI and machine learning
 
 ### 👯 Social
 
